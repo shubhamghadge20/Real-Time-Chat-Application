@@ -37,11 +37,15 @@ This is a real-time chat application built using **MERN stack** with **Socket.io
 #### **Backend**
 ```sh
  cd backend
+```
+```
  npm install
 ```
 #### **Frontend**
 ```sh
  cd frontend
+```
+```
  npm install
 ```
 
