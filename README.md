@@ -48,21 +48,13 @@ This is a real-time chat application built using **MERN stack** with **Socket.io
 ```
  npm install
 ```
-
-### **3️⃣ Setup Environment Variables**
-Create a `.env` file in the **backend** directory:
-```
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-```
-
-### **4️⃣ Start the Application**
+### **3️⃣ Start the Application**
 #### **Start Backend**
 ```sh
  cd backend
 ```
 ```
- npm start
+Node server.js
 ```
 #### **Start Frontend**
 ```sh
