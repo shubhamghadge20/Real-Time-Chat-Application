@@ -59,12 +59,16 @@ MONGO_URI=your_mongodb_connection_string
 ### **4️⃣ Start the Application**
 #### **Start Backend**
 ```sh
- cd backend
+ cd backen
+```
+```
  npm start
 ```
 #### **Start Frontend**
 ```sh
  cd frontend
+```
+```
  npm start
 ```
 
