@@ -54,7 +54,7 @@ This is a real-time chat application built using **MERN stack** with **Socket.io
  cd backend
 ```
 ```
-Node server.js
+node server.js
 ```
 #### **Start Frontend**
 ```sh
